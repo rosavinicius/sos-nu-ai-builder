@@ -1,0 +1,5 @@
+{
+  "name": "SOS Nu - Assistente Conversacional de Emergências Pix e Segurança",
+  "description": "Protótipo funcional de IA conversacional para acolhimento e triagem de golpes Pix (MED), falsas centrais e handoff estruturado para especialistas do Nubank, com console de instruções editáveis ao vivo.",
+  "requestFramePermissions": []
+}
